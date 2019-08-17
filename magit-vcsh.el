@@ -1,11 +1,11 @@
 ;;; magit-vcsh.el --- Magit vcsh integration -*- lexical-binding: t -*-
 
 ;; Author: Štěpán Němec <stepnem@gmail.com>
-;; Created: 2019-08-17 09:37:50 +0200 Saturday +0200
+;; Created: 2019-08-17 09:37:50 Saturday +0200
 ;; URL: https://gitlab.com/stepnem/magit-vcsh-el
 ;; Keywords: vc, files, magit
 ;; License: public domain
-;; Version: 0.4
+;; Version: 0.4.1
 ;; Tested-with: GNU Emacs 27
 ;; Package-Requires: ((magit "2.90.1") (vcsh "0.4") (emacs "24.4"))
 
