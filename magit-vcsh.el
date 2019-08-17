@@ -45,8 +45,7 @@
   "Make `magit-list-repos-1' consider vcsh git directories.
 Checkdoc: can you guess what ORIG and ARGS mean?"
   (let ((dir (car args)))
-    (if (and (string-match-p "[^/]\\.git$" dir)
-             (vcsh-repo-p dir))
+    (if (vcsh-repo-p dir)
         (list (file-name-as-directory dir))
       (apply orig args))))
 
