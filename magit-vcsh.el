@@ -6,7 +6,7 @@
 ;; Keywords: vc, files, magit
 ;; License: public domain
 ;; Version: 0.4.1
-;; Tested-with: GNU Emacs 27
+;; Tested-with: GNU Emacs 27, 28
 ;; Package-Requires: ((magit "2.90.1") (vcsh "0.4") (emacs "24.4"))
 
 ;;; Commentary:
