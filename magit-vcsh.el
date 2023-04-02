@@ -21,7 +21,8 @@
 
 ;; See also the commentary in vcsh.el for more information.
 
-;; Corrections and productive feedback appreciated.
+;; Corrections and productive feedback appreciated, publicly
+;; (<public@smrk.net>, inbox.smrk.net) or in private.
 
 ;;; Code:
 
